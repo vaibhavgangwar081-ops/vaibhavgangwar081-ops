@@ -1,12 +1,12 @@
 # VAIBHAV PATEL
 
-> CSE Student • Problem Solver • Builder
+### `CSE STUDENT` · `PROBLEM SOLVER` · `BUILDER`
 
-I’m a B.Tech CSE student at **Invertis University**, focused on building practical projects and strengthening my programming fundamentals.
+> Building practical projects while strengthening the fundamentals that make good software possible.
 
-I enjoy turning ideas into working solutions across **web development, Python, AI/computer vision, IoT and automation**.
+I'm a **B.Tech CSE student at Invertis University**, interested in turning ideas into practical, working solutions.
 
-Currently, I’m learning **Java** and building a stronger foundation before moving into **Data Structures & Algorithms**.
+My projects have taken me across **web development, Python, computer vision, AI concepts, IoT and automation**. Right now, I'm keeping my learning focused: **Java first, DSA next**, and stronger projects along the way.
 
 ---
 
@@ -14,150 +14,245 @@ Currently, I’m learning **Java** and building a stronger foundation before mov
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  PROFILE                                                     │
-├──────────────────────────────────────────────────────────────┤
-│  NAME        → Vaibhav Patel                                │
-│  ROLE        → CSE Student                                  │
-│  LOCATION    → India                                        │
-│  FOCUS       → Problem Solving • Development • Projects     │
 │                                                              │
-│  CURRENTLY   → Java                                         │
-│  NEXT        → Data Structures & Algorithms                 │
+│  NAME        Vaibhav Patel                                  │
+│  ROLE        CSE Student                                    │
+│  LOCATION    India                                          │
 │                                                              │
-│  BUILDING    → Practical software + hardware projects       │
+│  FOCUS       Problem Solving · Development · Projects       │
+│                                                              │
+│  LEARNING    Java                                           │
+│  NEXT        Data Structures & Algorithms                   │
+│                                                              │
+│  BUILDING    Practical Software + Hardware Projects         │
+│                                                              │
 └──────────────────────────────────────────────────────────────┘
-ABOUT.ME
-🎓 B.Tech CSE student at Invertis University
-💻 Building projects to improve practical development skills
-🌐 HTML & CSS fundamentals completed
-☕ Currently learning Java
-🧠 DSA is next on my learning roadmap
-🤖 Exploring AI, computer vision and automation through projects
-⚡ Interested in IoT, web development and real-world problem solving
-🚀 Currently focused on becoming a stronger programmer, one project at a time
+```
 
-CURRENT.FOCUS
-Java
-  ↓
-Programming Fundamentals
-  ↓
-Problem Solving
-  ↓
-Data Structures & Algorithms
-  ↓
-Stronger Development Projects
+---
 
-My current priority is not learning everything at once.
+## `ABOUT.ME`
 
-I’m focusing on building strong programming fundamentals first, then moving into DSA and gradually applying those concepts to larger projects.
+🎓 **B.Tech CSE Student** at Invertis University  
+🌐 **HTML & CSS** fundamentals completed  
+☕ **Java** — currently learning  
+🧠 **DSA** — next on the roadmap  
+🤖 Exploring **AI, computer vision & automation** through projects  
+⚡ Interested in **IoT, web development & practical problem solving**  
+🛠️ Learning by building, testing and improving
 
-FEATURED.PROJECTS
-🌾 Kisan Setu 3.0
+I don't want to learn everything at once.
 
-A digital agricultural marketplace concept designed to connect farmers and buyers directly.
+My current approach is simple:
 
-Focus: Agriculture • Web Development • AI-based Features
+**Understand → Build → Break → Fix → Improve**
 
-Repository:
-https://github.com/vaibhavgangwar081-ops/Kisan-setu-3.0
+---
 
-🚐 AI Autonomous Campus Shuttle
+## `CURRENT.FOCUS`
 
-A smart campus transportation concept designed around an autonomous shuttle experience with campus-specific stops and a monitoring dashboard.
+```text
+JAVA
+  │
+  ├── Programming Fundamentals
+  │
+  ├── Object-Oriented Programming
+  │
+  ├── Problem Solving
+  │
+  ▼
+DATA STRUCTURES & ALGORITHMS
+  │
+  ▼
+STRONGER DEVELOPMENT PROJECTS
+```
 
-Focus: AI • Smart Mobility • Campus Automation
+Currently, my priority is to build a solid programming foundation with **Java** before moving into **DSA**.
 
-📵 No Phone Zone
+---
 
-A computer-vision based project focused on detecting phone usage through a camera and triggering an automated response.
+## `FEATURED.PROJECTS`
 
-Focus: Python • OpenCV • YOLO • Computer Vision
+### 🌾 KISAN SETU 3.0
 
-⚡ VoltPrecision
+A digital agricultural marketplace concept designed to connect **farmers and buyers directly**, with a focus on more transparent agricultural trade.
 
-A smart hostel energy monitoring dashboard designed to visualize electricity usage and help monitor abnormal consumption.
+`Web Development` `Agriculture` `AI Concepts`
 
-Focus: HTML • CSS • JavaScript • Firebase • IoT
+**Repository →** [Kisan-setu-3.0](https://github.com/vaibhavgangwar081-ops/Kisan-setu-3.0)
 
-🤖 ESP32 Emotion Bot
+---
 
-An ESP32-based interactive project using an OLED display to represent different emotional states and respond to user interaction.
+### 🚐 AI AUTONOMOUS CAMPUS SHUTTLE
 
-Focus: ESP32 • OLED • IoT • Embedded Systems
+A smart campus transportation concept built around an autonomous shuttle experience, campus-specific stops and a monitoring dashboard.
 
-📚 Invertis Prep
+`AI Concepts` `Smart Mobility` `Campus Automation`
 
-A student-focused platform concept for organizing and accessing Invertis University previous-year question papers.
+---
 
-Focus: HTML • CSS • Web Development
+### 📵 NO PHONE ZONE
 
-TECH.STACK
-Languages
+A computer-vision project designed to detect phone usage through a camera and trigger an automated response.
 
-C Java Python
+`Python` `OpenCV` `YOLO` `Computer Vision`
 
-Web
+---
 
-HTML CSS JavaScript
+### ⚡ VOLTPRECISION
 
-AI / Computer Vision
+A smart hostel energy-monitoring dashboard designed to visualize electricity usage and help identify abnormal consumption.
 
-Python OpenCV YOLO
+`HTML` `CSS` `JavaScript` `Firebase` `IoT`
 
-Backend / Tools
+---
 
-Flask Firebase Git GitHub
+### 🤖 ESP32 EMOTION BOT
 
-IoT / Embedded
+An ESP32-based interactive project using an OLED display to represent different emotional states and respond to interaction.
 
-ESP32 Wokwi OLED
+`ESP32` `OLED` `IoT` `Embedded Systems`
 
-LEARNING.ROADMAP
-Stage	Focus	Status
-01	HTML	✓ Completed
-02	CSS	✓ Completed
-03	Java	⏳ Currently Learning
-04	DSA	→ Next
-05	Advanced Projects	→ Building towards
-HOW.I.BUILD
-IDEA
- ↓
-UNDERSTAND THE PROBLEM
- ↓
-DESIGN THE APPROACH
- ↓
-BUILD
- ↓
-TEST
- ↓
-IMPROVE
+---
 
-I prefer learning by building, testing and improving rather than only studying concepts theoretically.
+### 📚 INVERTIS PREP
 
-CURRENTLY.BUILDING
-[ Java ]
-   └── Strengthening programming fundamentals
+A student-focused platform concept for organizing and accessing **Invertis University previous-year question papers**.
 
-[ DSA ]
-   └── Next major learning milestone
+`HTML` `CSS` `Web Development`
 
-[ Projects ]
-   └── Turning ideas into practical implementations
+---
 
-[ Development ]
-   └── Improving web + software development skills
-GITHUB.ACTIVITY
+## `TECH.STACK`
 
-I use GitHub to document projects, experiment with ideas and gradually build a stronger development portfolio.
+### `LANGUAGES`
 
-CONNECT
+`C` `Java` `Python`
 
-LinkedIn:
-https://www.linkedin.com/in/vaibhav-patel-2612053b/
+### `WEB`
 
-GitHub:
-https://github.com/vaibhavgangwar081-ops
+`HTML` `CSS` `JavaScript`
 
-CSE Student | Logic > Luck
+### `AI / COMPUTER VISION`
 
-Building skills. Building projects. Building one step at a time.
+`Python` `OpenCV` `YOLO`
+
+### `BACKEND / SERVICES`
+
+`Flask` `Firebase`
+
+### `TOOLS`
+
+`Git` `GitHub`
+
+### `IOT / EMBEDDED`
+
+`ESP32` `Wokwi` `OLED`
+
+---
+
+## `LEARNING.ROADMAP`
+
+| Stage | Focus | Status |
+|:---:|---|:---:|
+| `01` | HTML | ✓ Completed |
+| `02` | CSS | ✓ Completed |
+| `03` | Java | ⏳ Currently Learning |
+| `04` | DSA | → Next |
+| `05` | Advanced Projects | → Building Towards |
+
+---
+
+## `HOW.I.BUILD`
+
+```text
+        ┌──────────────┐
+        │     IDEA     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │ UNDERSTAND   │
+        │ THE PROBLEM  │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    DESIGN    │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │    BUILD     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │     TEST     │
+        └──────┬───────┘
+               ↓
+        ┌──────────────┐
+        │   IMPROVE    │
+        └──────────────┘
+```
+
+I prefer learning through **building and experimentation**—taking an idea, turning it into something functional, finding what breaks and improving it.
+
+---
+
+## `CURRENTLY.BUILDING`
+
+```text
+┌─ JAVA
+│  └─ Strengthening programming fundamentals
+│
+├─ PROBLEM SOLVING
+│  └─ Improving logical thinking through programming
+│
+├─ DSA
+│  └─ Next major learning milestone
+│
+└─ PROJECTS
+   └─ Turning ideas into practical implementations
+```
+
+---
+
+## `PROJECT.MINDSET`
+
+```text
+        CURIOUS
+           │
+           ▼
+        EXPLORE
+           │
+           ▼
+         BUILD
+           │
+           ▼
+         TEST
+           │
+           ▼
+        IMPROVE
+           │
+           ▼
+         REPEAT
+```
+
+> **Logic > Luck**
+
+---
+
+## `GITHUB.ACTIVITY`
+
+I use GitHub to **build, experiment, document projects and track my progress** as I continue developing my programming skills.
+
+---
+
+## `CONNECT`
+
+**LinkedIn** → [vaibhav-patel-2612053b](https://www.linkedin.com/in/vaibhav-patel-2612053b/)
+
+**GitHub** → [vaibhavgangwar081-ops](https://github.com/vaibhavgangwar081-ops)
+
+---
+
+### `BUILDING SKILLS. BUILDING PROJECTS. BUILDING FORWARD.`
+
+*One concept. One project. One step at a time.*
