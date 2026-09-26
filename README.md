@@ -79,51 +79,89 @@ Currently, my priority is to build a solid programming foundation with **Java** 
 
 ## `FEATURED.PROJECTS`
 
+<div align="center">
+
 ### 🌾 KISAN SETU 3.0
 
-A digital agricultural marketplace concept designed to connect **farmers and buyers directly**, with a focus on more transparent agricultural trade.
+**Digital Agricultural Marketplace**
 
-`Web Development` `Agriculture` `AI Concepts`
+A platform concept designed to connect farmers and buyers directly, with a focus on transparent agricultural trade and better market access.
 
-**Repository →** [Kisan-setu-3.0](https://github.com/vaibhavgangwar081-ops/Kisan-setu-3.0)
+`HTML` `CSS` `JavaScript` `AI Concepts` `Agriculture`
 
----
+**[View Repository →](https://github.com/vaibhavgangwar081-ops/Kisan-setu-3.0)**
 
-### 🚐 AI AUTONOMOUS CAMPUS SHUTTLE
-
-A smart campus transportation concept built around an autonomous shuttle experience, campus-specific stops and a monitoring dashboard.
-
-`AI Concepts` `Smart Mobility` `Campus Automation`
+</div>
 
 ---
+
+<div align="center">
 
 ### 📵 NO PHONE ZONE
 
-A computer-vision project designed to detect phone usage through a camera and trigger an automated response.
+**Computer Vision Based Detection System**
 
-`Python` `OpenCV` `YOLO` `Computer Vision`
+A computer-vision project that detects phone usage through a camera and triggers an automated response.
+
+`Python` `OpenCV` `YOLO` `Pygame`
+
+</div>
 
 ---
+
+<div align="center">
 
 ### ⚡ VOLTPRECISION
 
-A smart hostel energy-monitoring dashboard designed to visualize electricity usage and help identify abnormal consumption.
+**Smart Hostel Energy Monitoring**
+
+A dashboard designed to monitor electricity consumption and identify abnormal usage patterns using real-time data.
 
 `HTML` `CSS` `JavaScript` `Firebase` `IoT`
 
+</div>
+
 ---
+
+<div align="center">
+
+### 🚐 AI AUTONOMOUS CAMPUS SHUTTLE
+
+**Smart Campus Mobility Concept**
+
+An autonomous campus transportation concept featuring predefined university stops and a monitoring dashboard.
+
+`AI Concepts` `Smart Mobility` `Automation`
+
+</div>
+
+---
+
+<div align="center">
 
 ### 🤖 ESP32 EMOTION BOT
 
-An ESP32-based interactive project using an OLED display to represent different emotional states and respond to interaction.
+**Interactive Embedded System**
 
-`ESP32` `OLED` `IoT` `Embedded Systems`
+An ESP32-based project using an OLED display to represent different emotional states and respond to interaction.
+
+`ESP32` `OLED` `Wokwi` `Embedded Systems`
+
+</div>
 
 ---
 
+<div align="center">
+
 ### 📚 INVERTIS PREP
 
-A student-focused platform concept for organizing and accessing **Invertis University previous-year question papers**.
+**Previous-Year Question Paper Platform**
+
+A student-focused web platform for organizing and accessing Invertis University previous-year question papers.
+
+`HTML` `CSS` `Web Development`
+
+</div>
 
 `HTML` `CSS` `Web Development`
 
