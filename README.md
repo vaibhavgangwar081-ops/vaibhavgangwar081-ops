@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./dark.svg" alt="Vaibhav Patel — CSE Student, Problem Solver and Builder" width="100%">
+</p>
+
 # VAIBHAV PATEL
 
 ### `CSE STUDENT` · `PROBLEM SOLVER` · `BUILDER`
