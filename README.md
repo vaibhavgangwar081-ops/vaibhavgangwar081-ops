@@ -171,30 +171,27 @@ A student-focused web platform for organizing and accessing Invertis University 
 
 ### `LANGUAGES`
 
-`C` `Java` `Python`
+`C` · `Java` · `Python`
 
-### `WEB`
+### `WEB DEVELOPMENT`
 
-`HTML` `CSS` `JavaScript`
+`HTML` · `CSS` · `JavaScript`
 
-### `AI / COMPUTER VISION`
+### `AI & COMPUTER VISION`
 
-`Python` `OpenCV` `YOLO`
+`Python` · `OpenCV` · `YOLO`
 
-### `BACKEND / SERVICES`
+### `BACKEND & SERVICES`
 
-`Flask` `Firebase`
+`Flask` · `Firebase`
 
-### `TOOLS`
+### `TOOLS & VERSION CONTROL`
 
-`Git` `GitHub`
+`Git` · `GitHub`
 
-### `IOT / EMBEDDED`
+### `IOT & EMBEDDED`
 
-`ESP32` `Wokwi` `OLED`
-
----
-
+`ESP32` · `Wokwi` · `OLED`
 ## `LEARNING.ROADMAP`
 
 | Stage | Focus | Status |
@@ -210,31 +207,30 @@ A student-focused web platform for organizing and accessing Invertis University 
 ## `HOW.I.BUILD`
 
 ```text
-        ┌──────────────┐
-        │     IDEA     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │ UNDERSTAND   │
-        │ THE PROBLEM  │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    DESIGN    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    BUILD     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │     TEST     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   IMPROVE    │
-        └──────────────┘
-```
+┌─────────────┐
+│     IDEA    │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│ UNDERSTAND  │
+│ THE PROBLEM │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│    DESIGN   │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│    BUILD    │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│     TEST    │
+└──────┬──────┘
+       ↓
+┌─────────────┐
+│   IMPROVE   │
+└─────────────┘
 
 I prefer learning through **building and experimentation**—taking an idea, turning it into something functional, finding what breaks and improving it.
 
@@ -254,9 +250,6 @@ I prefer learning through **building and experimentation**—taking an idea, tur
 │
 └─ PROJECTS
    └─ Turning ideas into practical implementations
-```
-
----
 
 ## `PROJECT.MINDSET`
 
@@ -284,16 +277,22 @@ I prefer learning through **building and experimentation**—taking an idea, tur
 ---
 
 ## `GITHUB.ACTIVITY`
+I use GitHub as a **working space for projects, experiments and continuous learning**.
 
-I use GitHub to **build, experiment, document projects and track my progress** as I continue developing my programming skills.
+My repositories reflect what I'm currently learning — from **web development and Python projects to computer vision, IoT and embedded systems**.
 
+As I move deeper into **Java and DSA**, GitHub will also track that progression through practical implementations and problem-solving projects.
 ---
 
 ## `CONNECT`
 
-**LinkedIn** → [vaibhav-patel-2612053b](https://www.linkedin.com/in/vaibhav-patel-2612053b/)
+### `LINKEDIN`
 
-**GitHub** → [vaibhavgangwar081-ops](https://github.com/vaibhavgangwar081-ops)
+[vaibhav-patel-2612053b](https://www.linkedin.com/in/vaibhav-patel-2612053b/)
+
+### `GITHUB`
+
+[vaibhavgangwar081-ops](https://github.com/vaibhavgangwar081-ops)
 
 ---
 
