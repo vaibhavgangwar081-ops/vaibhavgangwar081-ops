@@ -169,29 +169,17 @@ A student-focused web platform for organizing and accessing Invertis University 
 
 ## `TECH.STACK`
 
-### `LANGUAGES`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js" />
+</p>
 
-`C` · `Java` · `Python`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,flask,firebase,git,github" />
+</p>
 
-### `WEB DEVELOPMENT`
-
-`HTML` · `CSS` · `JavaScript`
-
-### `AI & COMPUTER VISION`
-
-`Python` · `OpenCV` · `YOLO`
-
-### `BACKEND & SERVICES`
-
-`Flask` · `Firebase`
-
-### `TOOLS & VERSION CONTROL`
-
-`Git` · `GitHub`
-
-### `IOT & EMBEDDED`
-
-`ESP32` · `Wokwi` · `OLED`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=esp32,vscode" />
+</p>
 ## `LEARNING.ROADMAP`
 
 | Stage | Focus | Status |
