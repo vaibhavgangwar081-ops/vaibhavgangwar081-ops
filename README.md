@@ -274,6 +274,10 @@ SYSTEM PROJECTS   [█████████████▒▒▒▒▒▒▒�
   <a href="https://www.instagram.com/vaibhav.gangwar_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+&nbsp;&nbsp;
+  <a href="mailto:vaibhav.bcs2025632@invertisuniversity.ac.in" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <br><br>
 
   ### `BUILDING SKILLS. BUILDING PROJECTS. BUILDING FORWARD.`
