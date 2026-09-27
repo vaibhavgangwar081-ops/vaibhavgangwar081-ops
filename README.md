@@ -169,17 +169,27 @@ A student-focused web platform for organizing and accessing Invertis University 
 
 ## `TECH.STACK`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js" />
+## 🧩 Tech Stack
+
+### 💻 Programming Languages
+## 🧩 Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=opencv,flask,firebase,git,github" />
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=esp32,vscode" />
+### 🛠️ Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
+
+
 ## `LEARNING.ROADMAP`
 
 | Stage | Focus | Status |
