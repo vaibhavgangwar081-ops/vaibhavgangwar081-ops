@@ -270,6 +270,10 @@ SYSTEM PROJECTS   [█████████████▒▒▒▒▒▒▒�
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
+&nbsp;&nbsp;
+  <a href="https://www.instagram.com/vaibhav.gangwar_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <br><br>
 
   ### `BUILDING SKILLS. BUILDING PROJECTS. BUILDING FORWARD.`
