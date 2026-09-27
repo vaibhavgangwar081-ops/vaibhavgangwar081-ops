@@ -230,7 +230,6 @@ SYSTEM PROJECTS   [█████████████▒▒▒▒▒▒▒�
 
 ---
 
-## `GITHUB.ACTIVITY`
 ## 📊 `GITHUB.ACTIVITY`
 
 <div align="center">
