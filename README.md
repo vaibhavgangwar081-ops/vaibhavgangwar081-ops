@@ -235,16 +235,16 @@ SYSTEM PROJECTS   [█████████████▒▒▒▒▒▒▒�
 
 <div align="center">
 
-  <!-- Working Aesthetic Daily Streak Card -->
+  <!-- Working Daily Streak Card -->
   <a href="https://github.com/vaibhavgangwar081-ops">
     <img src="https://streak-stats.demolab.com/?user=vaibhavgangwar081-ops&theme=tokyonight&hide_border=true&border_radius=10" width="95%" alt="Vaibhav's GitHub Streak" />
   </a>
 
   <br><br>
 
-  <!-- Working GitHub Stats & Top Languages Cards -->
+  <!-- High Reliability Stats & Top Languages Cards -->
   <a href="https://github.com/vaibhavgangwar081-ops">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavgangwar081-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=vaibhavgangwar081-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/vaibhavgangwar081-ops">
     <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaibhavgangwar081-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -257,8 +257,6 @@ SYSTEM PROJECTS   [█████████████▒▒▒▒▒▒▒�
   </p>
 
 </div>
-
----
 
 ## 🌐 `CONNECT`
 
