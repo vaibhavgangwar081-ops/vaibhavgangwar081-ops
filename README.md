@@ -220,39 +220,37 @@ I prefer learning through **building and experimentation**—taking an idea, tur
 
 ## `CURRENTLY.BUILDING`
 
-```text
-┌─ JAVA
-│  └─ Strengthening programming fundamentals
-│
-├─ PROBLEM SOLVING
-│  └─ Improving logical thinking through programming
-│
-├─ DSA
-│  └─ Next major learning milestone
-│
-└─ PROJECTS
-   └─ Turning ideas into practical implementations
+<!-- CURRENTLY BUILDING SECTION -->
+<h2 align="left">⚡ <code>CURRENTLY.BUILDING</code></h2>
 
-## `PROJECT.MINDSET`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>☕ Java Fundamentals</h4>
+      <p>Strengthening core OOPs concepts, syntax & logic building.</p>
+      <img src="https://geps.dev/progress/80?dangerColor=808080&warningColor=00F2FE&successColor=00F2FE" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🧠 Problem Solving & DSA</h4>
+      <p>Algorithmic thinking, data structures & recursion.</p>
+      <img src="https://geps.dev/progress/45?dangerColor=808080&warningColor=7B2CBF&successColor=7B2CBF" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 Web & IoT Projects</h4>
+      <p>Practical software and embedded systems integration.</p>
+      <img src="https://geps.dev/progress/65?dangerColor=808080&warningColor=00D2FF&successColor=00D2FF" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚀 System Architecture</h4>
+      <p>Building scalable, clean and efficient solutions.</p>
+      <img src="https://geps.dev/progress/35?dangerColor=808080&warningColor=9D4EDD&successColor=9D4EDD" width="100%" />
+    </td>
+  </tr>
+</table>
 
-```text
-        CURIOUS
-           │
-           ▼
-        EXPLORE
-           │
-           ▼
-         BUILD
-           │
-           ▼
-         TEST
-           │
-           ▼
-        IMPROVE
-           │
-           ▼
-         REPEAT
-```
+<br>
 
 > **Logic > Luck**
 
