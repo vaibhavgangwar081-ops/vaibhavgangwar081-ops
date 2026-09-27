@@ -228,9 +228,6 @@ SYSTEM PROJECTS   [█████████████▒▒▒▒▒▒▒�
 
 > **Logic > Luck**
 
----
-
-```markdown
 ## 📊 `GITHUB.ACTIVITY`
 
 <div align="center">
