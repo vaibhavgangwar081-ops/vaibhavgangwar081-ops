@@ -261,14 +261,33 @@ SYSTEM PROJECTS   [█████████████▒▒▒▒▒▒▒�
 ---
 
 ## 🌐 `CONNECT`
+## 📊 `GITHUB.ACTIVITY`
 
-## `GITHUB.ACTIVITY`
-I use GitHub as a **working space for projects, experiments and continuous learning**.
+<div align="center">
 
-My repositories reflect what I'm currently learning — from **web development and Python projects to computer vision, IoT and embedded systems**.
+  <!-- Aesthetic Daily Streak Card -->
+  <a href="https://github.com/vaibhavgangwar081-ops">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgangwar081-ops&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117" width="95%" alt="Vaibhav's GitHub Streak" />
+  </a>
 
-As I move deeper into **Java and DSA**, GitHub will also track that progression through practical implementations and problem-solving projects.
----
+  <br><br>
+
+  <!-- GitHub Stats & Top Languages Cards -->
+  <a href="https://github.com/vaibhavgangwar081-ops">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavgangwar081-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/vaibhavgangwar081-ops">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgangwar081-ops&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <br><br>
+
+  <!-- Dynamic Contribution Graph Snake / Chart Banner -->
+  <p>
+    <i>"Repositories reflect continuous learning: Web Dev, Python, Computer Vision, IoT & Java/DSA."</i>
+  </p>
+
+</div>
 
 ## `CONNECT`
 
