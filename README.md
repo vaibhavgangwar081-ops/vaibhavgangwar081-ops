@@ -218,37 +218,13 @@ I prefer learning through **building and experimentation**—taking an idea, tur
 
 ---
 
-## `CURRENTLY.BUILDING`
-<h2 align="left">⚡ <code>CURRENTLY.BUILDING</code></h2>
+## 🎯 `CURRENTLY.BUILDING`
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>☕ Java Fundamentals</h4>
-      <p>Strengthening core OOPs concepts, syntax & logic building.</p>
-      <img src="https://geps.dev/progress/80?dangerColor=808080&warningColor=00F2FE&successColor=00F2FE" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🧠 Problem Solving & DSA</h4>
-      <p>Algorithmic thinking, data structures & recursion.</p>
-      <img src="https://geps.dev/progress/45?dangerColor=808080&warningColor=7B2CBF&successColor=7B2CBF" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Web & IoT Projects</h4>
-      <p>Practical software and embedded systems integration.</p>
-      <img src="https://geps.dev/progress/65?dangerColor=808080&warningColor=00D2FF&successColor=00D2FF" width="100%" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚀 System Architecture</h4>
-      <p>Building scalable, clean and efficient solutions.</p>
-      <img src="https://geps.dev/progress/35?dangerColor=808080&warningColor=9D4EDD&successColor=9D4EDD" width="100%" />
-    </td>
-  </tr>
-</table>
-
-<br>
+```text
+JAVA CORE         [████████████████████▒▒▒▒▒] 80% — OOPs, Logic & Syntax
+PROBLEM SOLVING   [████████████████▒▒▒▒▒▒▒▒▒] 65% — Algorithmic Thinking
+DSA (ALGORITHMS)  [████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 30% — Arrays, Strings & Recursion
+SYSTEM PROJECTS   [█████████████▒▒▒▒▒▒▒▒▒▒▒▒] 50% — Web, IoT & Hardware Integration
 
 > **Logic > Luck**
 
