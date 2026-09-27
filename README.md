@@ -1,39 +1,26 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Vaibhav Patel — CSE Student, Problem Solver and Builder" width="100%">
-</picture>
+<div align="center">
 
-# VAIBHAV PATEL
+  <!-- Dynamic Typing Header Banner -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=70&lines=VAIBHAV+PATEL;CSE+Student;Problem+Solver+%26+Builder" alt="Typing Banner" />
+  </h1>
 
-### `CSE STUDENT` · `PROBLEM SOLVER` · `BUILDER`
+  <p align="center">
+    <b>Building Clean Code & Scalable Web Applications 🚀</b>
+  </p>
 
-> Building practical projects while strengthening the fundamentals that make good software possible.
+  <!-- Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/FOCUS-PROBLEM%20SOLVING-00D2FF?style=for-the-badge&logoWidth=10" />
+    <img src="https://img.shields.io/badge/LEARNING-JAVA-7B2CBF?style=for-the-badge&logoWidth=10" />
+    <img src="https://img.shields.io/badge/NEXT-DSA-00F2FE?style=for-the-badge&logoWidth=10" />
+    <img src="https://img.shields.io/badge/STATUS-BUILDING%20PROJECTS-9D4EDD?style=for-the-badge&logoWidth=10" />
+  </p>
 
-I'm a **B.Tech CSE student at Invertis University**, interested in turning ideas into practical, working solutions.
-
-My projects have taken me across **web development, Python, computer vision, AI concepts, IoT and automation**. Right now, I'm keeping my learning focused: **Java first, DSA next**, and stronger projects along the way.
-
----
+</div>
 
 ## `SYSTEM.INFO`
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  NAME        Vaibhav Patel                                  │
-│  ROLE        CSE Student                                    │
-│  LOCATION    India                                          │
-│                                                              │
-│  FOCUS       Problem Solving · Development · Projects       │
-│                                                              │
-│  LEARNING    Java                                           │
-│  NEXT        Data Structures & Algorithms                   │
-│                                                              │
-│  BUILDING    Practical Software + Hardware Projects         │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
 
 ---
 
