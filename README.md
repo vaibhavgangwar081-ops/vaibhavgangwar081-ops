@@ -230,46 +230,52 @@ SYSTEM PROJECTS   [█████████████▒▒▒▒▒▒▒�
 
 ---
 
+```markdown
 ## 📊 `GITHUB.ACTIVITY`
 
 <div align="center">
 
-  <!-- Aesthetic Daily Streak Card -->
+  <!-- Working Aesthetic Daily Streak Card -->
   <a href="https://github.com/vaibhavgangwar081-ops">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgangwar081-ops&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117" width="95%" alt="Vaibhav's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=vaibhavgangwar081-ops&theme=tokyonight&hide_border=true&border_radius=10" width="95%" alt="Vaibhav's GitHub Streak" />
   </a>
 
   <br><br>
 
-  <!-- GitHub Stats & Top Languages Cards -->
+  <!-- Working GitHub Stats & Top Languages Cards -->
   <a href="https://github.com/vaibhavgangwar081-ops">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavgangwar081-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavgangwar081-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/vaibhavgangwar081-ops">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgangwar081-ops&layout=compact&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaibhavgangwar081-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
 
   <br><br>
 
-  <!-- Dynamic Contribution Graph Snake / Chart Banner -->
   <p>
     <i>"Repositories reflect continuous learning: Web Dev, Python, Computer Vision, IoT & Java/DSA."</i>
   </p>
 
 </div>
 
-## `CONNECT`
-
-### `LINKEDIN`
-
-[vaibhav-patel-2612053b](https://www.linkedin.com/in/vaibhav-patel-2612053b/)
-
-### `GITHUB`
-
-[vaibhavgangwar081-ops](https://github.com/vaibhavgangwar081-ops)
-
 ---
 
-### `BUILDING SKILLS. BUILDING PROJECTS. BUILDING FORWARD.`
+## 🌐 `CONNECT`
 
-*One concept. One project. One step at a time.*
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/vaibhav-patel-2612053b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vaibhavgangwar081-ops" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+  <br><br>
+
+  ### `BUILDING SKILLS. BUILDING PROJECTS. BUILDING FORWARD.`
+  <i>One concept. One project. One step at a time.</i>
+
+</div>
+```
