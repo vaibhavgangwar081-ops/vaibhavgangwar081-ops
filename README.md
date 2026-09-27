@@ -219,8 +219,6 @@ I prefer learning through **building and experimentation**—taking an idea, tur
 ---
 
 ## `CURRENTLY.BUILDING`
-
-<!-- CURRENTLY BUILDING SECTION -->
 <h2 align="left">⚡ <code>CURRENTLY.BUILDING</code></h2>
 
 <table width="100%">
