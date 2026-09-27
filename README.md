@@ -159,9 +159,6 @@ A student-focused web platform for organizing and accessing Invertis University 
 ## 🧩 Tech Stack
 
 ### 💻 Programming Languages
-## 🧩 Tech Stack
-
-### 💻 Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,java" />
 </p>
@@ -262,12 +259,33 @@ I prefer learning through **building and experimentation**—taking an idea, tur
 ---
 
 ## `GITHUB.ACTIVITY`
-I use GitHub as a **working space for projects, experiments and continuous learning**.
+## 📊 `GITHUB.ACTIVITY`
 
-My repositories reflect what I'm currently learning — from **web development and Python projects to computer vision, IoT and embedded systems**.
+<div align="center">
 
-As I move deeper into **Java and DSA**, GitHub will also track that progression through practical implementations and problem-solving projects.
----
+  <!-- Aesthetic Daily Streak Card -->
+  <a href="https://github.com/vaibhavgangwar081-ops">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgangwar081-ops&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117" width="95%" alt="Vaibhav's GitHub Streak" />
+  </a>
+
+  <br><br>
+
+  <!-- GitHub Stats & Top Languages Cards -->
+  <a href="https://github.com/vaibhavgangwar081-ops">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavgangwar081-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/vaibhavgangwar081-ops">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgangwar081-ops&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <br><br>
+
+  <!-- Dynamic Contribution Graph Snake / Chart Banner -->
+  <p>
+    <i>"Repositories reflect continuous learning: Web Dev, Python, Computer Vision, IoT & Java/DSA."</i>
+  </p>
+
+</div>
 
 ## `CONNECT`
 
