@@ -262,20 +262,26 @@ SYSTEM PROJECTS   [█████████████▒▒▒▒▒▒▒�
 
 ## 🌐 `CONNECT`
 
-<div align="center">
+## `GITHUB.ACTIVITY`
+I use GitHub as a **working space for projects, experiments and continuous learning**.
 
-  <a href="https://www.linkedin.com/in/vaibhav-patel-2612053b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/vaibhavgangwar081-ops" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+My repositories reflect what I'm currently learning — from **web development and Python projects to computer vision, IoT and embedded systems**.
 
-  <br><br>
+As I move deeper into **Java and DSA**, GitHub will also track that progression through practical implementations and problem-solving projects.
+---
 
-  ### `BUILDING SKILLS. BUILDING PROJECTS. BUILDING FORWARD.`
-  <i>One concept. One project. One step at a time.</i>
+## `CONNECT`
 
-</div>
-```
+### `LINKEDIN`
+
+[vaibhav-patel-2612053b](https://www.linkedin.com/in/vaibhav-patel-2612053b/)
+
+### `GITHUB`
+
+[vaibhavgangwar081-ops](https://github.com/vaibhavgangwar081-ops)
+
+---
+
+### `BUILDING SKILLS. BUILDING PROJECTS. BUILDING FORWARD.`
+
+*One concept. One project. One step at a time.*
