@@ -225,8 +225,11 @@ JAVA CORE         [████████████████████�
 PROBLEM SOLVING   [████████████████▒▒▒▒▒▒▒▒▒] 65% — Algorithmic Thinking
 DSA (ALGORITHMS)  [████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒] 30% — Arrays, Strings & Recursion
 SYSTEM PROJECTS   [█████████████▒▒▒▒▒▒▒▒▒▒▒▒] 50% — Web, IoT & Hardware Integration
+```
 
 > **Logic > Luck**
+
+---
 
 ## 📊 `GITHUB.ACTIVITY`
 
@@ -258,46 +261,21 @@ SYSTEM PROJECTS   [█████████████▒▒▒▒▒▒▒�
 ---
 
 ## 🌐 `CONNECT`
-## 📊 `GITHUB.ACTIVITY`
 
 <div align="center">
 
-  <!-- Aesthetic Daily Streak Card -->
-  <a href="https://github.com/vaibhavgangwar081-ops">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavgangwar081-ops&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117" width="95%" alt="Vaibhav's GitHub Streak" />
+  <a href="https://www.linkedin.com/in/vaibhav-patel-2612053b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/vaibhavgangwar081-ops" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
   <br><br>
 
-  <!-- GitHub Stats & Top Languages Cards -->
-  <a href="https://github.com/vaibhavgangwar081-ops">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaibhavgangwar081-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/vaibhavgangwar081-ops">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgangwar081-ops&layout=compact&theme=tokyonight&hide_border=true" />
-  </a>
-
-  <br><br>
-
-  <!-- Dynamic Contribution Graph Snake / Chart Banner -->
-  <p>
-    <i>"Repositories reflect continuous learning: Web Dev, Python, Computer Vision, IoT & Java/DSA."</i>
-  </p>
+  ### `BUILDING SKILLS. BUILDING PROJECTS. BUILDING FORWARD.`
+  <i>One concept. One project. One step at a time.</i>
 
 </div>
-
-## `CONNECT`
-
-### `LINKEDIN`
-
-[vaibhav-patel-2612053b](https://www.linkedin.com/in/vaibhav-patel-2612053b/)
-
-### `GITHUB`
-
-[vaibhavgangwar081-ops](https://github.com/vaibhavgangwar081-ops)
-
----
-
-### `BUILDING SKILLS. BUILDING PROJECTS. BUILDING FORWARD.`
-
-*One concept. One project. One step at a time.*
+```
