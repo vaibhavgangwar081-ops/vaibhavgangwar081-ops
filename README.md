@@ -1,28 +1,27 @@
+# 👨‍💻 VAIBHAV PATEL
+
 <div align="center">
 
-  <!-- Dynamic Typing Header Banner -->
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=70&lines=VAIBHAV+PATEL;CSE+Student;Problem+Solver+%26+Builder" alt="Typing Banner" />
-  </h1>
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00F2FE&center=true&vcenter=true&width=600&height=70&lines=VAIBHAV+PATEL;CSE+Student;Problem+Solver+%26+Builder" alt="Typing Banner" />
+</h1>
 
-  <p align="center">
-    <b>Building Clean Code & Scalable Web Applications 🚀</b>
-  </p>
+<p align="center">
+  <b>Building Clean Code & Scalable Web Applications 🚀</b>
+</p>
 
-  <!-- Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/FOCUS-PROBLEM%20SOLVING-00D2FF?style=for-the-badge&logoWidth=10" />
-    <img src="https://img.shields.io/badge/LEARNING-JAVA-7B2CBF?style=for-the-badge&logoWidth=10" />
-    <img src="https://img.shields.io/badge/NEXT-DSA-00F2FE?style=for-the-badge&logoWidth=10" />
-    <img src="https://img.shields.io/badge/STATUS-BUILDING%20PROJECTS-9D4EDD?style=for-the-badge&logoWidth=10" />
-  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-PROBLEM%20SOLVING-00D2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEARNING-JAVA-7B2CBF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NEXT-DSA-00F2FE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING%20PROJECTS-9D4EDD?style=for-the-badge" />
+</p>
 
 </div>
 
-## `SYSTEM.INFO`
-
-
 ---
+
+## `SYSTEM.INFO`
 
 ## `ABOUT.ME`
 
@@ -30,9 +29,9 @@
 🌐 **HTML & CSS** fundamentals completed  
 ☕ **Java** — currently learning  
 🧠 **DSA** — next on the roadmap  
-🤖 Exploring **AI, computer vision & automation** through projects  
-⚡ Interested in **IoT, web development & practical problem solving**  
-🛠️ Learning by building, testing and improving
+🤖 Exploring **AI, Computer Vision & Automation** through projects  
+⚡ Interested in **IoT, Web Development & Practical Problem Solving**  
+🛠️ Learning by building, testing and improving.
 
 I don't want to learn everything at once.
 
@@ -46,17 +45,17 @@ My current approach is simple:
 
 ```text
 JAVA
-  │
-  ├── Programming Fundamentals
-  │
-  ├── Object-Oriented Programming
-  │
-  ├── Problem Solving
-  │
-  ▼
+ │
+ ├── Programming Fundamentals
+ │
+ ├── Object-Oriented Programming
+ │
+ ├── Problem Solving
+ │
+ ▼
 DATA STRUCTURES & ALGORITHMS
-  │
-  ▼
+ │
+ ▼
 STRONGER DEVELOPMENT PROJECTS
 ```
 
@@ -65,6 +64,40 @@ Currently, my priority is to build a solid programming foundation with **Java** 
 ---
 
 ## `FEATURED.PROJECTS`
+
+<div align="center">
+
+### 📚 SMART LIBRARY ANALYTICS
+
+**Data-Driven Library Management & Analytics Dashboard**
+
+A web-based library analytics system designed to analyze book circulation, track borrowing activities and generate meaningful insights from library data.
+
+The project provides an interactive dashboard with library statistics, book records, borrowing information and data visualization to make library management smarter and more efficient.
+
+**Key Features:**
+- 📊 Interactive Analytics Dashboard
+- 📚 Book & Library Records Management
+- 📈 Data Visualization and Statistics
+- 🔍 Borrowing and Return Tracking
+- 📅 Loan Status Analysis
+- 🔐 Admin Login System
+
+`Python` `Flask` `Pandas` `NumPy` `Matplotlib` `Seaborn` `HTML` `CSS`
+
+<p>
+  <a href="https://vaibhavgangwar.pythonanywhere.com">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-00C853?style=for-the-badge&logo=python&logoColor=white" alt="Live Demo"/>
+  </a>
+</p>
+
+<p>
+  <b>🌐 Explore the Live Project</b>
+</p>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -150,29 +183,39 @@ A student-focused web platform for organizing and accessing Invertis University 
 
 </div>
 
-`HTML` `CSS` `Web Development`
-
 ---
 
 ## `TECH.STACK`
 
-## 🧩 Tech Stack
-
 ### 💻 Programming Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,java" />
+  <img src="https://skillicons.dev/icons?i=c,java,python" />
 </p>
 
 ### 🌐 Frontend
+
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,firebase" />
+</p>
+
+### 📊 Data Analysis & Visualization
+
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+
 ### 🛠️ Tools & Workflow
+
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
 
+---
 
 ## `LEARNING.ROADMAP`
 
@@ -213,6 +256,7 @@ A student-focused web platform for organizing and accessing Invertis University 
 ┌─────────────┐
 │   IMPROVE   │
 └─────────────┘
+```
 
 I prefer learning through **building and experimentation**—taking an idea, turning it into something functional, finding what breaks and improving it.
 
@@ -235,53 +279,52 @@ SYSTEM PROJECTS   [█████████████▒▒▒▒▒▒▒�
 
 <div align="center">
 
-  <!-- Working Daily Streak Card -->
-  <a href="https://github.com/vaibhavgangwar081-ops">
-    <img src="https://streak-stats.demolab.com/?user=vaibhavgangwar081-ops&theme=tokyonight&hide_border=true&border_radius=10" width="95%" alt="Vaibhav's GitHub Streak" />
-  </a>
+<a href="https://github.com/vaibhavgangwar081-ops">
+  <img src="https://streak-stats.demolab.com/?user=vaibhavgangwar081-ops&theme=tokyonight&hide_border=true&border_radius=10" width="95%" alt="Vaibhav's GitHub Streak" />
+</a>
 
-  <br><br>
+<br/><br/>
 
-  <!-- High Reliability Stats & Top Languages Cards -->
-  <a href="https://github.com/vaibhavgangwar081-ops">
-    <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=vaibhavgangwar081-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/vaibhavgangwar081-ops">
-    <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaibhavgangwar081-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
+<a href="https://github.com/vaibhavgangwar081-ops">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=vaibhavgangwar081-ops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</a>
 
-  <br><br>
+<a href="https://github.com/vaibhavgangwar081-ops">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=vaibhavgangwar081-ops&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</a>
 
-  <p>
-    <i>"Repositories reflect continuous learning: Web Dev, Python, Computer Vision, IoT & Java/DSA."</i>
-  </p>
+<br/><br/>
+
+<i>"Repositories reflect continuous learning: Web Dev, Python, Computer Vision, IoT & Java/DSA."</i>
 
 </div>
+
+---
 
 ## 🌐 `CONNECT`
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/vaibhav-patel-2612053b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/vaibhavgangwar081-ops" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://www.linkedin.com/in/vaibhav-patel-2612053b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
-&nbsp;&nbsp;
-  <a href="https://www.instagram.com/vaibhav.gangwar_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-&nbsp;&nbsp;
-  <a href="mailto:vaibhav.bcs2025632@invertisuniversity.ac.in" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <br><br>
+<a href="https://github.com/vaibhavgangwar081-ops" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
-  ### `BUILDING SKILLS. BUILDING PROJECTS. BUILDING FORWARD.`
-  <i>One concept. One project. One step at a time.</i>
+<a href="https://www.instagram.com/vaibhav.gangwar_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+
+<a href="mailto:vaibhav.bcs2025632@invertisuniversity.ac.in">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<br/><br/>
+
+### `BUILDING SKILLS. BUILDING PROJECTS. BUILDING FORWARD.`
+
+<i>One concept. One project. One step at a time.</i>
 
 </div>
-```
